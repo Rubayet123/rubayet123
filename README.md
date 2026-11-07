@@ -1,107 +1,78 @@
 <div align="center">
-  <h1>Rubayet Alam</h1>
-  <p><b>Developer · Automator · Data Enthusiast</b></p>
-  <p>Building practical tools — web apps, automation pipelines, media servers & data systems.</p>
-  
-  <p>
-    <a href="https://rubayet123.github.io/">
-      <img src="https://img.shields.io/badge/Website-rubayet123.github.io-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
-    <a href="https://github.com/Rubayet123">
-      <img src="https://img.shields.io/badge/GitHub-Rubayet123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rubayet&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20·%20Automator%20·%20Data%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+tools+that+matter+%F0%9F%9A%80;Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F;Exploring+data+%26+security+%F0%9F%94%90;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
 </div>
+
+<br/>
 
 ---
 
 ### 🛠️ What I Build
-
-| | | |
-|:---:|:---:|:---:|
-| **📊 Data Projects** <br/> Jupyter · Analysis · Visualization | **⚙️ Automation** <br/> Python scripts · Scrapers · Workflows | **💻 Web Development** <br/> React · Node.js · Full-stack |
-| **📡 Server & Media** <br/> IPTV · Stream tools · M3U | **🔐 Cybersecurity** <br/> Research · CTF · Homelab | **🤖 Data Science** <br/> ML experiments · Pipelines |
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>FitGirl Pro</h3>
-      <p>High-performance native download manager for game repacks. Multi-threaded, smart queue, OLED dark UI.</p>
-      <code>Tauri · Rust · React</code><br/><br/>
-      <a href="https://github.com/Rubayet123">View →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>IPTV Stream Checker</h3>
-      <p>Browser-based M3U playlist health checker with LIVE/DEAD badges, concurrent workers & CSV export.</p>
-      <code>JavaScript · Cloudflare</code><br/><br/>
-      <a href="https://github.com/Rubayet123">View →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Unicode Viewer</h3>
-      <p>Inspect and visualize non-printable Unicode characters hidden inside any text string.</p>
-      <code>HTML · JavaScript</code><br/><br/>
-      <a href="https://github.com/Rubayet123/unicode-viewer">View →</a>
-    </td>
-  </tr>
-</table>
+- 📊 **Data Projects** — Jupyter notebooks, data analysis & visualization.
+- 📡 **Server & Media Tools** — Servers and stream management.
+- 🌐 **Web Utilities** — Unicode viewers, browser-based developer tools.
+- ⚙️ **Automation Scripts** — Python scripts for scraping, scheduling, and workflow automation.
+- 💻 **Web Development** — Responsive websites, REST APIs, and full-stack web applications.
+- 📱 **App Development** — Cross-platform mobile and desktop applications.
+- 🔐 **Cybersecurity** — Security research, vulnerability analysis, and CTF challenges.
+- 🤖 **Data Science** — Machine learning experiments, data pipelines, and predictive modeling.
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rubayet123&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Rubayet123&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayet123&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="160" alt="Top Languages"/>
-</p>
-
----
-
-### 💬 Principle
-
-> **Build tools that actually matter.**  
-> Practical over perfect. Ship, learn, improve.
-
----
-
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://rubayet123.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/Rubayet123">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rubayet123&style=for-the-badge&label=Profile+Views&color=0D1117" alt="Views"/>
-</p>
-
----
+## Stack
 
 <div align="center">
-  <sub>Based in Bangladesh · GMT+6</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
 </div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet123&custom_title=Contribution+Activity&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rubayet123&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rubayet123&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rubayet123.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rubayet123)
+![Views](https://komarev.com/ghpvc/?username=Rubayet123&style=for-the-badge&color=58A6FF&label=VIEWS)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
