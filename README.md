@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ What I Build
+### 01 · What I Build
 <p align="right"><sub>CAPABILITIES</sub></p>
 
 <table>
