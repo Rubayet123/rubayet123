@@ -4,13 +4,13 @@
 
 <!-- Projects row -->
 <a href="https://github.com/Rubayet123/YourProject1">
-  <img src="./assets/project1.svg" width="33%" alt="Project 1">
+  <img src="./assets/YourProject1.svg" width="33%" alt="Project 1">
 </a>
 <a href="...">
-  <img src="./assets/project2.svg" width="33%" alt="Project 2">
+  <img src="./assets/YourProject1.svg" width="33%" alt="Project 2">
 </a>
 <a href="...">
-  <img src="./assets/project3.svg" width="33%" alt="Project 3">
+  <img src="./assets/YourProject1.svg" width="33%" alt="Project 3">
 </a>
 
 <!-- Stack + Quote -->
