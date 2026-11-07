@@ -1,147 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rubayet%20Alam&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20·%20Automator%20·%20Data%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Rubayet Alam, independent developer" src="./assets/header-dark.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rubayet+Alam;Developer+%C2%B7+Automator+%C2%B7+Data+Enthusiast;Building+tools+that+actually+matter" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p>
-    Independent developer focused on practical software —  
-    <b>web apps</b>, <b>automation</b>, <b>servers</b> & <b>data systems</b>.
-  </p>
-
-  <p>
-    <a href="https://rubayet123.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Rubayet123">
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Rubayet123&style=for-the-badge&label=Profile+Views&color=0D1117" alt="Views"/>
-  </p>
-</div>
-
----
-
-### 01 · What I Build
-<p align="right"><sub>CAPABILITIES</sub></p>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>01 · Data</b><br/>
-      <sub>Jupyter / analysis / visualization</sub><br/><br/>
-      <code>█░░░░ 32</code><br/>
-      <code>███░░ 58</code><br/>
-      <code>████░ 74</code><br/>
-      <code>██████ 96</code><br/>
-      <code>███░░ 61</code><br/>
-      <code>████░ 79</code><br/>
-      <code>██░░░ 45</code>
-    </td>
-    <td width="33%" valign="top">
-      <b>02 · Automation</b><br/>
-      <sub>Scripts / scrapers / workflows</sub><br/><br/>
-      <code>fetch → parse → build → ship</code><br/><br/>
-      <code>● &nbsp;&nbsp;&nbsp; ● &nbsp;&nbsp;&nbsp; ● &nbsp;&nbsp;&nbsp; ●</code>
-    </td>
-    <td width="33%" valign="top">
-      <b>03 · Web</b><br/>
-      <sub>React / Node.js / full-stack</sub><br/><br/>
-      <code>┌────────────────┐</code><br/>
-      <code>│ localhost:5173 │</code><br/>
-      <code>│  ┌──────────┐  │</code><br/>
-      <code>│  │   app    │  │</code><br/>
-      <code>│  └──────────┘  │</code><br/>
-      <code>└────────────────┘</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b>04 · Servers</b><br/>
-      <sub>Stream tools / M3U / homelab</sub><br/><br/>
-      <code>stream-edge ████████░░ 82%</code><br/>
-      <code>relay &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████░░░░ 64%</code><br/>
-      <code>homelab &nbsp;&nbsp;&nbsp;&nbsp; ██████████ 98%</code>
-    </td>
-    <td width="33%" valign="top">
-      <b>05 · Security</b><br/>
-      <sub>Research / CTF / experimentation</sub><br/><br/>
-      <code>31 4a 8c 7f 2e 07 d9 1b</code><br/>
-      <code>54 e1 40 95 c1 82 0e aa</code><br/>
-      <code>17 8a fd 03 e6 5c af 22</code><br/>
-      <code>9b 2e 7c 11 f4 ba 0d 88</code>
-    </td>
-    <td width="33%" valign="top">
-      <b>06 · Data Science</b><br/>
-      <sub>ML / pipelines / exploration</sub><br/><br/>
-      <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp; ·</code><br/>
-      <code>&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; · &nbsp; ·</code><br/>
-      <code>&nbsp; · &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code><br/>
-      <code>· &nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code><br/>
-      <code>&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,rust,tauri,cloudflare,docker,linux,git,html,css,vite&perline=7" alt="Skills"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<p>
+  Independent developer focused on practical software:
+  <b>web apps</b>, <b>automation</b>, <b>servers</b> and <b>data systems</b>.
 </p>
 
----
-
-
-
-### 💬 Principle
-
-<div align="center">
-  <h3>Build tools that actually matter.</h3>
-  <p><i>Practical over perfect. Ship, learn, improve.</i></p>
 </div>
 
----
+<br>
 
-## Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-build-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-build-light.svg">
+  <img alt="What I build" src="./assets/section-build-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/capabilities-light.svg">
+  <img alt="Data, automation, web, servers, security and data science" src="./assets/capabilities-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-stack-light.svg">
+  <img alt="Tech stack" src="./assets/section-stack-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+  <img alt="Python, TypeScript, JavaScript, React, Node.js, Rust, Tauri, Vite, Cloudflare Workers, Docker, Linux, Git, HTML, CSS, Jupyter, M3U" src="./assets/stack-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-work-light.svg">
+  <img alt="Selected work" src="./assets/section-work-dark.svg" width="100%">
+</picture>
+
+<a href="https://github.com/Rubayet123/fitgirl-downloader-pro/releases/tag/fitgirl-repacks"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-fitgirl-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-fitgirl-light.svg">
+  <img alt="FitGirl Downloader Pro: native download manager for game repacks. Tauri, Rust, React, TypeScript." src="./assets/card-fitgirl-dark.svg" width="49.2%">
+</picture></a>
+<a href="https://rubayet123.github.io/iptv-checker/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-iptv-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-iptv-light.svg">
+  <img alt="IPTV Stream Checker: browser-based health checker for M3U playlists. JavaScript, Cloudflare Workers." src="./assets/card-iptv-dark.svg" width="49.2%">
+</picture></a>
+
+<a href="https://rubayet123.github.io/earthquake/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-quake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-quake-light.svg">
+  <img alt="Bangladesh Earthquake Explorer: every recorded earthquake in Bangladesh, 1900 to 2025. JavaScript, Mapping." src="./assets/card-quake-dark.svg" width="49.2%">
+</picture></a>
+<a href="https://rubayet123.github.io/unicode-viewer/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-unicode-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-unicode-light.svg">
+  <img alt="Unicode Inspector: reveal invisible and non-printable Unicode characters. HTML, JavaScript." src="./assets/card-unicode-dark.svg" width="49.2%">
+</picture></a>
+
+<a href="https://rubayet123.github.io/my-ip/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-ip-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-ip-light.svg">
+  <img alt="My Public IP: instantly see your public IP address with location and hostname info. JavaScript, ipify API." src="./assets/card-ip-dark.svg" width="100%">
+</picture></a>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-principle-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-principle-light.svg">
+  <img alt="Principle" src="./assets/section-principle-dark.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/principle-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/principle-light.svg">
+  <img alt="Build tools that actually matter. Practical over perfect. Ship, learn, improve." src="./assets/principle-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-activity-light.svg">
+  <img alt="Activity" src="./assets/section-activity-dark.svg" width="100%">
+</picture>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Rubayet123&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet123&bg_color=0d1117&color=8c97a9&line=ff8a4c&point=e8ecf2&area=true&area_color=ff8a4c&hide_border=true&hide_title=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet123&bg_color=ffffff&color=5a6476&line=d9531e&point=14181f&area=true&area_color=d9531e&hide_border=true&hide_title=true">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rubayet123&bg_color=0d1117&color=8c97a9&line=ff8a4c&point=e8ecf2&area=true&area_color=ff8a4c&hide_border=true&hide_title=true" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rubayet123&background=0d1117&border=273040&stroke=273040&ring=ff8a4c&fire=ff8a4c&currStreakNum=e8ecf2&sideNums=e8ecf2&currStreakLabel=ff8a4c&sideLabels=8c97a9&dates=8c97a9&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rubayet123&background=ffffff&border=dbe0e8&stroke=dbe0e8&ring=d9531e&fire=d9531e&currStreakNum=14181f&sideNums=14181f&currStreakLabel=d9531e&sideLabels=5a6476&dates=5a6476&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Rubayet123&background=0d1117&border=273040&stroke=273040&ring=ff8a4c&fire=ff8a4c&currStreakNum=e8ecf2&sideNums=e8ecf2&currStreakLabel=ff8a4c&sideLabels=8c97a9&dates=8c97a9&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%">
+</picture>
+
 </div>
 
----
+<br>
 
-## Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-connect-light.svg">
+  <img alt="Connect" src="./assets/section-connect-dark.svg" width="100%">
+</picture>
 
-<div align="center">
+<a href="https://rubayet123.github.io/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-portfolio-light.svg">
+  <img alt="Portfolio: rubayet123.github.io" src="./assets/btn-portfolio-dark.svg" width="272">
+</picture></a>
+&nbsp;
+<a href="https://github.com/Rubayet123"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-github-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/btn-github-light.svg">
+  <img alt="GitHub: github.com/Rubayet123" src="./assets/btn-github-dark.svg" width="272">
+</picture></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rubayet123.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rubayet123)
-![Views](https://komarev.com/ghpvc/?username=Rubayet123&style=for-the-badge&color=58A6FF&label=VIEWS)
+<br>
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="" src="./assets/footer-dark.svg" width="100%">
+</picture>
