@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="220" viewBox="0 0 340 220" fill="none">
+  <defs>
+    <linearGradient id="qbg" x1="0" y1="0" x2="340" y2="220">
+      <stop offset="0%" stop-color="#0B0F14"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="340" height="220" rx="16" fill="url(#qbg)"/>
+  <rect x="1" y="1" width="338" height="218" rx="15" stroke="#1E293B" stroke-width="1" fill="none"/>
+  
+  <!-- Quote mark -->
+  <text x="28" y="60" font-family="Georgia, serif" font-size="48" fill="#1E3A5F">“</text>
+  
+  <!-- Quote text -->
+  <text x="28" y="100" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="600" fill="#F1F5F9">
+    Build tools that
+  </text>
+  <text x="28" y="126" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="600" fill="#F1F5F9">
+    actually matter.
+  </text>
+  
+  <!-- Sub text -->
+  <text x="28" y="162" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#94A3B8">
+    Practical over perfect.
+  </text>
+  <text x="28" y="180" font-family="Inter, system-ui, sans-serif" font-size="12" fill="#94A3B8">
+    Ship, learn, improve.
+  </text>
+  
+  <!-- Accent -->
+  <rect x="28" y="200" width="32" height="3" rx="1.5" fill="#3B82F6"/>
+</svg>
