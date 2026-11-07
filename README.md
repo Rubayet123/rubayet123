@@ -30,34 +30,86 @@
 ---
 
 ### 🛠️ What I Build
+<p align="right"><sub>CAPABILITIES</sub></p>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>📊 Data</h3>
-      Jupyter · Analysis · Visualization
+    <!-- 01 Data -->
+    <td width="33%" valign="top">
+      <h3>01 · Data</h3>
+      <p>Jupyter / analysis / visualization</p>
+      <pre>
+█░░░░  32
+███░░  58
+████░  74
+██████ 96
+███░░  61
+████░  79
+██░░░  45
+      </pre>
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Automation</h3>
-      Python scripts · Scrapers · Workflows
+
+    <!-- 02 Automation -->
+    <td width="33%" valign="top">
+      <h3>02 · Automation</h3>
+      <p>Scripts / scrapers / workflows</p>
+      <pre>
+fetch → parse → build → ship
+  ●       ●       ●       ●
+      </pre>
     </td>
-    <td align="center" width="33%">
-      <h3>💻 Web</h3>
-      React · Node.js · Full-stack
+
+    <!-- 03 Web -->
+    <td width="33%" valign="top">
+      <h3>03 · Web</h3>
+      <p>React / Node.js / full-stack</p>
+      <pre>
+┌──────────────────┐
+│  localhost:5173  │
+│  ┌────────────┐  │
+│  │            │  │
+│  │    app     │  │
+│  │            │  │
+│  └────────────┘  │
+└──────────────────┘
+      </pre>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>📡 Servers</h3>
-      Stream tools · M3U · Homelab
+    <!-- 04 Servers -->
+    <td width="33%" valign="top">
+      <h3>04 · Servers</h3>
+      <p>Stream tools / M3U / homelab</p>
+      <pre>
+stream-edge  ████████░░  82%
+relay        ██████░░░░  64%
+homelab      ██████████  98%
+      </pre>
     </td>
-    <td align="center">
-      <h3>🔐 Security</h3>
-      Research · CTF · Experimentation
+
+    <!-- 05 Security -->
+    <td width="33%" valign="top">
+      <h3>05 · Security</h3>
+      <p>Research / CTF / experimentation</p>
+      <pre>
+31 4a 8c 7f 2e 07 d9 1b
+54 e1 40 95 c1 82 0e aa
+17 8a fd 03 e6 5c af 22
+9b 2e 7c 11 f4 ba 0d 88
+      </pre>
     </td>
-    <td align="center">
-      <h3>🤖 Data Science</h3>
-      ML · Pipelines · Exploration
+
+    <!-- 06 Data Science -->
+    <td width="33%" valign="top">
+      <h3>06 · Data Science</h3>
+      <p>ML / pipelines / exploration</p>
+      <pre>
+        ·  ·
+     ·    ·  ·
+  ·    ·        ·
+·   ·      ·
+  ·           ·
+      </pre>
     </td>
   </tr>
 </table>
