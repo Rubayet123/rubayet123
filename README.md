@@ -2,16 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rubayet&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Developer%20·%20Automator%20·%20Data%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+tools+that+matter+%F0%9F%9A%80;Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F;Exploring+data+%26+security+%F0%9F%94%90;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rubayet+Alam;Developer+%C2%B7+Automator+%C2%B7+Data+Enthusiast;Building+tools+that+actually+matter" alt="Typing SVG" />
 </div>
