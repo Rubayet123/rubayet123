@@ -34,82 +34,58 @@
 
 <table>
   <tr>
-    <!-- 01 Data -->
     <td width="33%" valign="top">
-      <h3>01 · Data</h3>
-      <p>Jupyter / analysis / visualization</p>
-      <pre>
-█░░░░  32
-███░░  58
-████░  74
-██████ 96
-███░░  61
-████░  79
-██░░░  45
-      </pre>
+      <b>01 · Data</b><br/>
+      <sub>Jupyter / analysis / visualization</sub><br/><br/>
+      <code>█░░░░ 32</code><br/>
+      <code>███░░ 58</code><br/>
+      <code>████░ 74</code><br/>
+      <code>██████ 96</code><br/>
+      <code>███░░ 61</code><br/>
+      <code>████░ 79</code><br/>
+      <code>██░░░ 45</code>
     </td>
-
-    <!-- 02 Automation -->
     <td width="33%" valign="top">
-      <h3>02 · Automation</h3>
-      <p>Scripts / scrapers / workflows</p>
-      <pre>
-fetch → parse → build → ship
-  ●       ●       ●       ●
-      </pre>
+      <b>02 · Automation</b><br/>
+      <sub>Scripts / scrapers / workflows</sub><br/><br/>
+      <code>fetch → parse → build → ship</code><br/><br/>
+      <code>● &nbsp;&nbsp;&nbsp; ● &nbsp;&nbsp;&nbsp; ● &nbsp;&nbsp;&nbsp; ●</code>
     </td>
-
-    <!-- 03 Web -->
     <td width="33%" valign="top">
-      <h3>03 · Web</h3>
-      <p>React / Node.js / full-stack</p>
-      <pre>
-┌──────────────────┐
-│  localhost:5173  │
-│  ┌────────────┐  │
-│  │            │  │
-│  │    app     │  │
-│  │            │  │
-│  └────────────┘  │
-└──────────────────┘
-      </pre>
+      <b>03 · Web</b><br/>
+      <sub>React / Node.js / full-stack</sub><br/><br/>
+      <code>┌────────────────┐</code><br/>
+      <code>│ localhost:5173 │</code><br/>
+      <code>│  ┌──────────┐  │</code><br/>
+      <code>│  │   app    │  │</code><br/>
+      <code>│  └──────────┘  │</code><br/>
+      <code>└────────────────┘</code>
     </td>
   </tr>
   <tr>
-    <!-- 04 Servers -->
     <td width="33%" valign="top">
-      <h3>04 · Servers</h3>
-      <p>Stream tools / M3U / homelab</p>
-      <pre>
-stream-edge  ████████░░  82%
-relay        ██████░░░░  64%
-homelab      ██████████  98%
-      </pre>
+      <b>04 · Servers</b><br/>
+      <sub>Stream tools / M3U / homelab</sub><br/><br/>
+      <code>stream-edge ████████░░ 82%</code><br/>
+      <code>relay &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████░░░░ 64%</code><br/>
+      <code>homelab &nbsp;&nbsp;&nbsp;&nbsp; ██████████ 98%</code>
     </td>
-
-    <!-- 05 Security -->
     <td width="33%" valign="top">
-      <h3>05 · Security</h3>
-      <p>Research / CTF / experimentation</p>
-      <pre>
-31 4a 8c 7f 2e 07 d9 1b
-54 e1 40 95 c1 82 0e aa
-17 8a fd 03 e6 5c af 22
-9b 2e 7c 11 f4 ba 0d 88
-      </pre>
+      <b>05 · Security</b><br/>
+      <sub>Research / CTF / experimentation</sub><br/><br/>
+      <code>31 4a 8c 7f 2e 07 d9 1b</code><br/>
+      <code>54 e1 40 95 c1 82 0e aa</code><br/>
+      <code>17 8a fd 03 e6 5c af 22</code><br/>
+      <code>9b 2e 7c 11 f4 ba 0d 88</code>
     </td>
-
-    <!-- 06 Data Science -->
     <td width="33%" valign="top">
-      <h3>06 · Data Science</h3>
-      <p>ML / pipelines / exploration</p>
-      <pre>
-        ·  ·
-     ·    ·  ·
-  ·    ·        ·
-·   ·      ·
-  ·           ·
-      </pre>
+      <b>06 · Data Science</b><br/>
+      <sub>ML / pipelines / exploration</sub><br/><br/>
+      <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp; ·</code><br/>
+      <code>&nbsp;&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp; · &nbsp; ·</code><br/>
+      <code>&nbsp; · &nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code><br/>
+      <code>· &nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code><br/>
+      <code>&nbsp; · &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ·</code>
     </td>
   </tr>
 </table>
