@@ -12,11 +12,6 @@
 
 ---
 
-<!-- ============================================================
-   Rubayet Alam — GitHub Profile README
-   Pure Markdown + HTML + external animated elements
-   ============================================================ -->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rubayet+Alam;Developer+%C2%B7+Automator+%C2%B7+Data+Enthusiast;Building+tools+that+actually+matter" alt="Typing SVG" />
 </div>
@@ -174,21 +169,6 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rubayet123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Rubayet123&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E" height="165" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubayet123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages"/>
-</div>
 
 ---
 
