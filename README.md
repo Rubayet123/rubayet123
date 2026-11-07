@@ -201,30 +201,6 @@
 
 ---
 
-### 🔗 Connect
-
-<p align="center">
-  <a href="https://rubayet123.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rubayet123">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://rubayet123.github.io/">
-    <img src="https://img.shields.io/badge/All_Projects-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF" alt="Projects"/>
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <sub>Based in Bangladesh · GMT+6</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=Rubayet123&style=flat-square&label=Profile+Views&color=58A6FF" alt="Profile views"/>
-</div>
----
-
 ## Stats
 
 <div align="center">
